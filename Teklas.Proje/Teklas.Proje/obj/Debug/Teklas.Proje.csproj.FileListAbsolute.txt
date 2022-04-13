@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\C#\Teklas.Proje\Teklas.Proje\bin\Debug\Teklas.Proje.exe.config
+C:\Users\Lenovo\Desktop\C#\Teklas.Proje\Teklas.Proje\bin\Debug\Teklas.Proje.exe
+C:\Users\Lenovo\Desktop\C#\Teklas.Proje\Teklas.Proje\bin\Debug\Teklas.Proje.pdb
+C:\Users\Lenovo\Desktop\C#\Teklas.Proje\Teklas.Proje\obj\Debug\Teklas.Proje.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\Teklas.Proje\Teklas.Proje\obj\Debug\Teklas.Proje.Form1.resources
+C:\Users\Lenovo\Desktop\C#\Teklas.Proje\Teklas.Proje\obj\Debug\Teklas.Proje.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C#\Teklas.Proje\Teklas.Proje\obj\Debug\Teklas.Proje.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\C#\Teklas.Proje\Teklas.Proje\obj\Debug\Teklas.Proje.exe
+C:\Users\Lenovo\Desktop\C#\Teklas.Proje\Teklas.Proje\obj\Debug\Teklas.Proje.pdb
+C:\Users\Lenovo\Desktop\C#\Teklas.Proje\Teklas.Proje\obj\Debug\Teklas.Proje.Form2.resources
